@@ -12,8 +12,8 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Latest News</h2>
+            {/* <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p> */}
           </div>
 
           {/* Testimonials */}
@@ -29,9 +29,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Last date for DIPLOMA IN YOGA TEACHER EDUCATION- DYT.ED admission is 30th. No admission will be taken after the said date. Contact your nearest center to take admission in yoga courses.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Last Date of</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Admission</a>
               </div>
             </div>
 
@@ -45,9 +45,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Common yoga morning protocol timing 5:00 to 6:30 in the summer and 5:30 to 7:00 in the winters. Everybody is invited to join the common yoga protocol (CYP) free of cost.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                <cite className="text-gray-200 not-italic">Daily Yoga practice </cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">Timing</a>
               </div>
             </div>
 
@@ -61,9 +61,9 @@ export default function Testimonials() {
                   </svg>
                 </div>
               </div>
-              <blockquote className="text-lg text-gray-400 grow">— Open PRO lets me quickly get the insights I care about so that I can focus on my productive work. I've had Open PRO for about 24 hours now and I honestly don't know how I functioned without it before.</blockquote>
+              <blockquote className="text-lg text-gray-400 grow">— Common yoga morning protocol timing 5:00 to 6:30 in the summer and 5:30 to 7:00 in the winters. Everybody is invited to join the common yoga protocol (CYP) free of cost.</blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
-                <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
+                {/* <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a> */}
               </div>
             </div>
 
